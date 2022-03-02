@@ -30,3 +30,6 @@ Aside from general and contact information, the site contains links at the top t
 sections, and links at the bottom to my Github, Linkedin, and resume. Also, each of the displayed projects
 is linked as well - the title links to the project's repository in Github, and the picture itself links
 to the deployed site, if applicable.
+
+## Link to deployed site:
+https://pasfrad.github.io/Portfolio/
