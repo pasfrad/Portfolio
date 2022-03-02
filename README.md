@@ -7,6 +7,9 @@
 - [Installation](#installation)
 - [Usage](#usage)
 
+## Image
+![Picture of portfolio](./readmepic.png)
+
 ## Description
 
 This is my portfolio, used to showcase my work to potenial employers, including those who are not coders themselves, as well as anyone interested.
