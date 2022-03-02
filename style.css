@@ -1,0 +1,20 @@
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+#topBar{
+    background-color: rgb(171, 12, 211);
+}
+
+#topName{
+    font-size: 70%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#topLinks{
+    color: white
+}
+
+#textColor{
+    color: rgb(189, 11, 11);
+}
