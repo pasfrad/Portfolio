@@ -8,7 +8,7 @@
 - [Usage](#usage)
 
 ## Image
-![Picture of portfolio](./readmepic.png)
+![Picture of portfolio](./assets/readmepic.png)
 
 ## Description
 
